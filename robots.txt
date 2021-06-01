@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://Thunder-Daniel.github.io/blogsitemap.xml
